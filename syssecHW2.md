@@ -34,3 +34,4 @@
 2. Повторите эксперимент, указанный в лекции.
 3. Отключите (удалите) apparmor.
 
+![изображение](https://github.com/user-attachments/assets/22ddcdcc-7a62-43fd-856b-a4acf56ce0b8)
