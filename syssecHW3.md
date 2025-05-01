@@ -17,22 +17,22 @@
 
 Проведите разведку системы и определите, какие сетевые службы запущены на защищаемой системе:
 
-**sudo nmap -sA < ip-адрес >**
+**sudo nmap -sA < ip-адрес >**  
 ![изображение](https://github.com/user-attachments/assets/f05eb030-2fa1-4f9a-a540-934c504d63d0)
 
 Лог suricata не зафиксировал действия
 
-**sudo nmap -sT < ip-адрес >**
+**sudo nmap -sT < ip-адрес >**  
 ![изображение](https://github.com/user-attachments/assets/f52b9d65-64f0-447c-b15e-0f8e30ddf3a5)
 
 ![изображение](https://github.com/user-attachments/assets/38903214-8c1e-4148-9684-02b77d1aa44b)
 
-**sudo nmap -sS < ip-адрес >**
+**sudo nmap -sS < ip-адрес >**  
 ![изображение](https://github.com/user-attachments/assets/d1c8e36c-dc14-480b-8c5f-808e8ff4572c)
 
 ![изображение](https://github.com/user-attachments/assets/ae500564-e664-48c2-ad1c-f925aa4a4434)
 
-**sudo nmap -sV < ip-адрес >**
+**sudo nmap -sV < ip-адрес >**  
 ![изображение](https://github.com/user-attachments/assets/8dac8af1-8453-400e-b8fe-63eb6512383c)
 
 ![изображение](https://github.com/user-attachments/assets/fb39dea9-2e81-4090-9edb-4a3c50a74b14)
